@@ -1,0 +1,296 @@
+[
+    {
+        "name": "Chocolate Truffle",
+        "path": "chocolate-truffle",
+        "tags": ["Cakes", "Hampers"],
+        "description": "Delicios cake made of chocoloate with multiple layers. Delicios cake made of chocoloate with multiple layers. Delicios cake made of chocoloate with multiple layers. Delicios cake made of chocoloate with multiple layers. Delicios cake made of chocoloate with multiple layers. Delicios cake made of chocoloate with multiple layers. Delicios cake made of chocoloate with multiple layers. Delicios cake made of chocoloate with multiple layers. Delicios cake made of chocoloate with multiple layers. Delicios cake made of chocoloate with multiple layers. Delicios cake made of chocoloate with multiple layers. Delicios cake made of chocoloate with multiple layers. ",
+        "images": [
+            {
+                "img": true,
+                "src": "images/ChocolateTruffle/img1.jpg",
+                "alt": "Chocolate Truffle image 1"
+            },
+            {
+                "img": true,
+                "src": "images/ChocolateTruffle/img2.jpg",
+                "alt": "Chocolate Truffle image 2"
+            },
+            {
+                "img": true,
+                "src": "images/ChocolateTruffle/img3.jpg",
+                "alt": "Chocolate Truffle image 3"
+            }
+        ],
+        "keyIngredients": [
+            "Chocolate",
+            "Egg",
+            "Sugar",
+            "Vanila extract"
+        ],
+        "type": "Veg",
+        "pricing": [
+            {
+                "weight": "0.5 Kg",
+                "price": 1000
+            },
+            {
+                "weight": "1 Kg",
+                "price": 200
+            },
+            {
+                "weight": "1.5 Kg",
+                "price": 300
+            },
+            {
+                "weight": "2 Kg",
+                "price": 400
+            }
+        ],
+        "orderCount": 100034
+    },
+    {
+        "name": "Dark Chocolate",
+        "path": "dark-chocolate",
+        "tags": ["Cakes", "Hampers"],
+        "description": "Delicios cake made of dark chocoloate with multiple layers",
+        "images": [
+            {
+                "img": true,
+                "src": "images/DarkChocolate/img1.jpg",
+                "alt": "Dark Chocolate image 1"
+            },
+            {
+                "img": true,
+                "src": "images/DarkChocolate/img2.jpg",
+                "alt": "Dark Chocolate image 2"
+            },
+            {
+                "img": true,
+                "src": "images/DarkChocolate/img3.jpg",
+                "alt": "Dark Chocolate image 3"
+            }
+        ],
+        "keyIngredients": [
+            "Chocolate",
+            "Egg",
+            "Sugar",
+            "Vanila extract"
+        ],
+        "type": "Non-Veg",
+        "pricing": [
+            {
+                "weight": "0.5 Kg",
+                "price": 100
+            },
+            {
+                "weight": "1 Kg",
+                "price": 200
+            },
+            {
+                "weight": "1.5 Kg",
+                "price": 300
+            },
+            {
+                "weight": "2 Kg",
+                "price": 400
+            }
+        ],
+        "orderCount": 700
+    },
+    {
+        "name": "Strawberry",
+        "path": "strawberry",
+        "tags": ["Cakes", "Birthdays"],
+        "description": "Delicios cake made of strawberry with multiple layers",
+        "images": [
+            {
+                "img": true,
+                "src": "images/Strawberry/img1.jpg",
+                "alt": "Strawberry image 1"
+            },
+            {
+                "img": true,
+                "src": "images/Strawberry/img2.jpg",
+                "alt": "Strawberry image 2"
+            },
+            {
+                "img": true,
+                "src": "images/Strawberry/img3.jpg",
+                "alt": "Strawberry image 3"
+            }
+        ],
+        "keyIngredients": [
+            "Chocolate",
+            "Egg",
+            "Sugar",
+            "Vanila extract"
+        ],
+        "type": "Non-Veg",
+        "pricing": [
+            {
+                "weight": "0.5 Kg",
+                "price": 100
+            },
+            {
+                "weight": "1 Kg",
+                "price": 200
+            },
+            {
+                "weight": "1.5 Kg",
+                "price": 300
+            },
+            {
+                "weight": "2 Kg",
+                "price": 400
+            }
+        ],
+        "orderCount": 700
+    },
+    {
+        "name": "Rasmalai",
+        "path": "rasmalai",
+        "tags": ["Brownies", "Hampers"],
+        "description": "Delicios cake made of dark chocoloate with multiple layers",
+        "images": [
+            {
+                "img": true,
+                "src": "images/Rasmalai/img1.jpg",
+                "alt": "Rasmalai image 1"
+            },
+            {
+                "img": true,
+                "src": "images/Rasmalai/img2.jpg",
+                "alt": "Rasmalai image 2"
+            },
+            {
+                "img": true,
+                "src": "images/Rasmalai/img3.jpg",
+                "alt": "Rasmalai image 3"
+            }
+        ],
+        "keyIngredients": [
+            "Chocolate",
+            "Egg",
+            "Sugar",
+            "Vanila extract"
+        ],
+        "type": "Non-Veg",
+        "pricing": [
+            {
+                "weight": "0.5 Kg",
+                "price": 100
+            },
+            {
+                "weight": "1 Kg",
+                "price": 200
+            },
+            {
+                "weight": "1.5 Kg",
+                "price": 300
+            },
+            {
+                "weight": "2 Kg",
+                "price": 400
+            }
+        ],
+        "orderCount": 4443
+    },
+    {
+        "name": "Pineapple",
+        "path": "pineapple",
+        "tags": ["Cakes", "Weddings"],
+        "description": "Delicios cake made of dark chocoloate with multiple layers",
+        "images": [
+            {
+                "img": true,
+                "src": "images/Pineapple/img1.jpg",
+                "alt": "Pineapple image 1"
+            },
+            {
+                "img": true,
+                "src": "images/Pineapple/img2.jpg",
+                "alt": "Pineapple image 2"
+            },
+            {
+                "img": true,
+                "src": "images/Pineapple/img3.jpg",
+                "alt": "Pineapple image 3"
+            }
+        ],
+        "keyIngredients": [
+            "Chocolate",
+            "Egg",
+            "Sugar",
+            "Vanila extract"
+        ],
+        "type": "Non-Veg",
+        "pricing": [
+            {
+                "weight": "0.5 Kg",
+                "price": 100
+            },
+            {
+                "weight": "1 Kg",
+                "price": 200
+            },
+            {
+                "weight": "1.5 Kg",
+                "price": 300
+            },
+            {
+                "weight": "2 Kg",
+                "price": 400
+            }
+        ],
+        "orderCount": 433
+    },
+    {
+        "name": "Black Forest",
+        "path": "black-forest",
+        "tags": ["Cakes", "Hampers"],
+        "description": "Delicios cake made of dark chocoloate with multiple layers",
+        "images": [
+            {
+                "img": true,
+                "src": "images/BlackForest/img1.jpg",
+                "alt": "Black Forest image 1"
+            },
+            {
+                "img": true,
+                "src": "images/BlackForest/img2.jpg",
+                "alt": "Black Forest image 2"
+            },
+            {
+                "img": true,
+                "src": "images/BlackForest/img3.jpg",
+                "alt": "Black Forest image 3"
+            }
+        ],
+        "keyIngredients": [
+            "Chocolate",
+            "Egg",
+            "Sugar",
+            "Vanila extract"
+        ],
+        "type": "Non-Veg",
+        "pricing": [
+            {
+                "weight": "0.5 Kg",
+                "price": 100
+            },
+            {
+                "weight": "1 Kg",
+                "price": 200
+            },
+            {
+                "weight": "1.5 Kg",
+                "price": 300
+            },
+            {
+                "weight": "2 Kg",
+                "price": 400
+            }
+        ],
+        "orderCount": 120
+    }
+]

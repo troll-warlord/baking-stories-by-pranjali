@@ -1,4 +1,4 @@
-# baking-stories
+# baking-stories-by-pranjali
 
 ## Project setup
 ```
